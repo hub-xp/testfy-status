@@ -26,7 +26,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: hub-xp.github.io/testfy-status/
-  # baseUrl: /your-repo-name
+  baseUrl: /testfy-status
   logoUrl: https://assets.testfy.com.br/static/img/logo2.svg
   name: Testfy
   introTitle: "**Status** page da Testfy"
