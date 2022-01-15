@@ -29,13 +29,14 @@ status-website:
   baseUrl: /testfy-status
   logoUrl: https://assets.testfy.com.br/static/img/logo2.svg
   name: Testfy
+  apiBaseUrl: https://raw.githubusercontent.com/hub-xp/testfy-status/
   introTitle: "**Status** page da Testfy"
   introMessage: Acompanhe o status de todos os serviços.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/hub-xp/testfy-status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
