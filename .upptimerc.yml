@@ -29,7 +29,7 @@ status-website:
   baseUrl: /testfy-status
   logoUrl: https://assets.testfy.com.br/static/img/logo2.svg
   name: Testfy
-  apiBaseUrl: https://raw.githubusercontent.com/hub-xp/testfy-status/
+  apiBaseUrl: https://raw.githubusercontent.com/hub-xp/testfy-status
   introTitle: "**Status** page da Testfy"
   introMessage: Acompanhe o status de todos os serviços.
   navbar:
