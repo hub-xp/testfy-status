@@ -17,6 +17,8 @@ sites:
     url: https://workspace-stage.testfy.com.br/
   - name: "[STAGE] Store (nova)"
     url: https://store-stage.testfy.com.br/
+  - name: "[PROD] Portainer"
+    url: https://portainer.testfy.com.br/
     
 
 assignees:
