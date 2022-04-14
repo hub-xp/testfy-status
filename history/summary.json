@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/api-stage.testfy.com.br",
     "slug": "stage-api-nova",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.32%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 251,
     "timeDay": 162,
     "timeWeek": 175,
@@ -107,9 +107,9 @@
     "url": "https://workspace-stage.testfy.com.br/",
     "icon": "https://favicons.githubusercontent.com/workspace-stage.testfy.com.br",
     "slug": "stage-backoffice-novo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
@@ -119,6 +119,7 @@
     "timeMonth": 458,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-28": 30,
       "2022-03-13": 23
     }
@@ -128,9 +129,9 @@
     "url": "https://store-stage.testfy.com.br/",
     "icon": "https://favicons.githubusercontent.com/store-stage.testfy.com.br",
     "slug": "stage-store-nova",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,7 +140,9 @@
     "timeWeek": 604,
     "timeMonth": 604,
     "timeYear": 1066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "[PROD] Portainer",
