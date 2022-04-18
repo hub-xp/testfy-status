@@ -4,9 +4,9 @@
     "url": "https://testfy.com.br/",
     "icon": "https://favicons.githubusercontent.com/testfy.com.br",
     "slug": "prod-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 547,
     "timeMonth": 598,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   },
   {
     "name": "[PROD] ECommerce",
@@ -77,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/api-stage.testfy.com.br",
     "slug": "stage-api-nova",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.32%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 248,
     "timeDay": 156,
     "timeWeek": 163,
