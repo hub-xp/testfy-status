@@ -3,16 +3,14 @@ owner: hub-xp # Your GitHub organization or username, where this repository live
 repo: testfy-status # The name of this repository
 
 sites:
-  - name: "[PROD] Site"
+  - name: "[PROD] Site e Loja"
     url: https://testfy.com.br/
-  - name: "[PROD] ECommerce"
-    url: https://store.testfy.com.br/
   - name: "[PROD] Professionals"
     url: https://professionals.testfy.com.br/
   - name: "[PROD] Workspace"
     url: http://workspace.testfy.com.br/
-  - name: "[STAGE] API (nova)"
-    url: https://api-stage.testfy.com.br/public/healthcheck/liveness
+  - name: "[PROD] API"
+    url: https://api.testfy.com.br/public/healthcheck/liveness
   - name: "[STAGE] Backoffice (novo)"
     url: https://workspace-stage.testfy.com.br/
   - name: "[STAGE] Store (nova)"
