@@ -4,19 +4,19 @@
     "url": "https://testfy.com.br/",
     "icon": "https://favicons.githubusercontent.com/testfy.com.br",
     "slug": "prod-site-e-loja",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3943,
-    "timeDay": 5695,
-    "timeWeek": 3943,
-    "timeMonth": 3943,
-    "timeYear": 3943,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 3109,
+    "timeDay": 3999,
+    "timeWeek": 3109,
+    "timeMonth": 3109,
+    "timeYear": 3109,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 19
     }
   },
   {
