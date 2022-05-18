@@ -6,7 +6,7 @@ sites:
   - name: "[PROD] Site e Loja"
     url: https://testfy.com.br/
   - name: "[PROD] Professionals"
-    url: https://professionals.testfy.com.br/
+    url: https://pro.testfy.com.br/
   - name: "[PROD] Workspace"
     url: http://workspace.testfy.com.br/
   - name: "[PROD] API"
