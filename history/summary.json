@@ -4,9 +4,9 @@
     "url": "https://testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/testfy.com.br.ico",
     "slug": "prod-site-e-loja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 325,
     "timeYear": 550,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2022-12-15": 30,
       "2022-12-13": 54,
       "2022-12-08": 33,
@@ -34,9 +35,9 @@
     "url": "https://pro.testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/pro.testfy.com.br.ico",
     "slug": "prod-professionals",
-    "status": "up",
+    "status": "down",
     "uptime": "96.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.94%",
@@ -46,6 +47,7 @@
     "timeMonth": 896,
     "timeYear": 639,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2022-05-18": 702,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
@@ -69,9 +71,9 @@
     "url": "http://workspace.testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/workspace.testfy.com.br.ico",
     "slug": "prod-workspace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,16 +82,18 @@
     "timeWeek": 272,
     "timeMonth": 258,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 0
+    }
   },
   {
     "name": "[PROD] API",
     "url": "https://api.testfy.com.br/public/healthcheck/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/api.testfy.com.br.ico",
     "slug": "prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -99,6 +103,7 @@
     "timeMonth": 345,
     "timeYear": 330,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2022-12-06": 28,
       "2022-11-17": 29,
       "2022-04-19": 69
@@ -109,9 +114,9 @@
     "url": "https://workspace-stage.testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/workspace-stage.testfy.com.br.ico",
     "slug": "stage-backoffice-novo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -121,6 +126,7 @@
     "timeMonth": 401,
     "timeYear": 783,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2022-12-06": 28,
       "2022-09-25": 32,
       "2022-09-04": 27,
@@ -137,9 +143,9 @@
     "url": "https://store-stage.testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/store-stage.testfy.com.br.ico",
     "slug": "stage-store-nova",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -149,6 +155,7 @@
     "timeMonth": 627,
     "timeYear": 722,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2022-12-13": 28,
       "2022-12-08": 56,
       "2022-09-25": 32,
@@ -163,9 +170,9 @@
     "url": "https://portainer.testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.testfy.com.br.ico",
     "slug": "prod-portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -175,6 +182,7 @@
     "timeMonth": 315,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2022-02-03": 28
     }
   }
