@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 321,
-    "timeDay": 260,
-    "timeWeek": 262,
-    "timeMonth": 287,
+    "time": 322,
+    "timeDay": 299,
+    "timeWeek": 280,
+    "timeMonth": 286,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2024-03-16": 30,
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 659,
-    "timeDay": 540,
-    "timeWeek": 341,
-    "timeMonth": 359,
+    "time": 658,
+    "timeDay": 301,
+    "timeWeek": 349,
+    "timeMonth": 363,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2023-09-26": 29
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 272,
-    "timeDay": 188,
-    "timeWeek": 261,
-    "timeMonth": 253,
+    "timeDay": 302,
+    "timeWeek": 278,
+    "timeMonth": 258,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2023-09-26": 59
@@ -75,10 +75,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 344,
-    "timeDay": 305,
-    "timeWeek": 259,
-    "timeMonth": 307,
+    "time": 343,
+    "timeDay": 306,
+    "timeWeek": 271,
+    "timeMonth": 309,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2023-09-26": 28
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 354,
-    "timeDay": 99,
-    "timeWeek": 263,
-    "timeMonth": 285,
-    "timeYear": 340,
+    "time": 345,
+    "timeDay": 784,
+    "timeWeek": 341,
+    "timeMonth": 294,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2024-03-16": 30,
       "2023-09-26": 28
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 413,
-    "timeDay": 581,
-    "timeWeek": 425,
-    "timeMonth": 322,
-    "timeYear": 392,
+    "time": 414,
+    "timeDay": 660,
+    "timeWeek": 437,
+    "timeMonth": 337,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2024-03-16": 30,
       "2023-09-26": 27
@@ -132,7 +132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.testfy.com.br.ico",
     "slug": "prod-portainer",
     "status": "down",
-    "uptime": "50.79%",
+    "uptime": "50.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -143,7 +143,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-17": 22,
+      "2024-04-18": 22,
+      "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -506,8 +507,7 @@
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
-      "2023-04-20": 1440,
-      "2023-04-19": 1440
+      "2023-04-20": 1440
     }
   }
 ]
