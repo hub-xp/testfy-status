@@ -1,7 +1,7 @@
 url: https://workspace-stage.testfy.com.br/
-status: down
-code: 500
-responseTime: 2206
-lastUpdated: 2024-05-20T14:32:34.139Z
+status: up
+code: 200
+responseTime: 175
+lastUpdated: 2024-05-20T15:02:35.580Z
 startTime: 2022-01-13T23:37:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
