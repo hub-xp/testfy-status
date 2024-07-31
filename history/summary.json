@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 316,
-    "timeDay": 353,
-    "timeWeek": 395,
-    "timeMonth": 324,
+    "timeDay": 346,
+    "timeWeek": 400,
+    "timeMonth": 325,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2024-03-16": 30,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 541,
-    "timeDay": 460,
-    "timeWeek": 444,
+    "time": 538,
+    "timeDay": 368,
+    "timeWeek": 441,
     "timeMonth": 378,
-    "timeYear": 583,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2023-09-26": 29
     }
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 347,
-    "timeWeek": 296,
-    "timeMonth": 285,
+    "timeDay": 511,
+    "timeWeek": 334,
+    "timeMonth": 292,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-09-26": 59
@@ -76,10 +76,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 251,
-    "timeWeek": 546,
-    "timeMonth": 385,
-    "timeYear": 320,
+    "timeDay": 329,
+    "timeWeek": 528,
+    "timeMonth": 384,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2024-07-01": 31,
       "2023-09-26": 28
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 333,
-    "timeDay": 236,
-    "timeWeek": 396,
-    "timeMonth": 290,
-    "timeYear": 328,
+    "timeDay": 557,
+    "timeWeek": 437,
+    "timeMonth": 299,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-05-20": 30,
       "2024-03-16": 30,
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 393,
-    "timeDay": 252,
-    "timeWeek": 311,
-    "timeMonth": 391,
+    "timeDay": 235,
+    "timeWeek": 290,
+    "timeMonth": 386,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2024-03-16": 30,
@@ -134,10 +134,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.testfy.com.br.ico",
     "slug": "prod-portainer",
     "status": "down",
-    "uptime": "45.02%",
+    "uptime": "44.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -145,7 +145,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-30": 25,
+      "2024-07-31": 20,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -508,8 +509,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   }
 ]
