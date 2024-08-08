@@ -69,19 +69,20 @@
     "url": "https://api.testfy.com.br/public/healthcheck/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/api.testfy.com.br.ico",
     "slug": "prod-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 341,
-    "timeDay": 266,
-    "timeWeek": 289,
-    "timeMonth": 367,
+    "timeDay": 271,
+    "timeWeek": 288,
+    "timeMonth": 364,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-08-07": 1,
+      "2024-08-08": 11,
+      "2024-08-07": 28,
       "2024-07-01": 31,
       "2023-09-26": 28
     }
@@ -146,7 +147,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-07": 1413,
+      "2024-08-08": 11,
+      "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -509,8 +511,7 @@
       "2023-08-13": 1440,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
-      "2023-08-10": 1440,
-      "2023-08-09": 1440
+      "2023-08-10": 1440
     }
   }
 ]
