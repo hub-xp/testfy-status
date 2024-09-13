@@ -9,11 +9,11 @@
     "uptimeDay": "97.90%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 317,
-    "timeDay": 375,
-    "timeWeek": 334,
-    "timeMonth": 330,
+    "uptimeYear": "99.97%",
+    "time": 318,
+    "timeDay": 288,
+    "timeWeek": 340,
+    "timeMonth": 333,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-09-12": 30,
@@ -29,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.testfy.com.br.ico",
     "slug": "prod-professionals",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 519,
-    "timeDay": 181,
+    "timeDay": 182,
     "timeWeek": 213,
-    "timeMonth": 235,
+    "timeMonth": 234,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2023-09-26": 29
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 256,
-    "timeDay": 240,
+    "timeDay": 323,
     "timeWeek": 253,
-    "timeMonth": 236,
+    "timeMonth": 240,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-09-26": 59
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 336,
-    "timeDay": 287,
-    "timeWeek": 293,
-    "timeMonth": 311,
+    "timeDay": 212,
+    "timeWeek": 292,
+    "timeMonth": 310,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-08-08": 11,
@@ -97,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 334,
-    "timeDay": 278,
-    "timeWeek": 334,
-    "timeMonth": 350,
-    "timeYear": 321,
+    "time": 336,
+    "timeDay": 984,
+    "timeWeek": 438,
+    "timeMonth": 374,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2024-05-20": 30,
       "2024-03-16": 30,
@@ -120,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 401,
-    "timeDay": 934,
-    "timeWeek": 626,
-    "timeMonth": 613,
-    "timeYear": 387,
+    "timeDay": 639,
+    "timeWeek": 591,
+    "timeMonth": 626,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2024-03-16": 30,
       "2023-09-26": 27
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.testfy.com.br.ico",
     "slug": "prod-portainer",
     "status": "down",
-    "uptime": "42.94%",
+    "uptime": "42.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -146,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 604,
+      "2024-09-13": 26,
+      "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -509,8 +510,7 @@
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
-      "2023-09-15": 1440,
-      "2023-09-14": 1440
+      "2023-09-15": 1440
     }
   }
 ]
