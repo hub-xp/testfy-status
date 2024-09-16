@@ -11,8 +11,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 317,
-    "timeDay": 219,
-    "timeWeek": 329,
+    "timeDay": 267,
+    "timeWeek": 339,
     "timeMonth": 333,
     "timeYear": 305,
     "dailyMinutesDown": {
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 518,
-    "timeDay": 209,
-    "timeWeek": 197,
+    "timeDay": 238,
+    "timeWeek": 203,
     "timeMonth": 233,
     "timeYear": 557,
     "dailyMinutesDown": {
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 197,
-    "timeWeek": 250,
-    "timeMonth": 237,
+    "timeDay": 229,
+    "timeWeek": 252,
+    "timeMonth": 238,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-09-26": 59
@@ -74,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 335,
-    "timeDay": 241,
-    "timeWeek": 296,
-    "timeMonth": 309,
+    "time": 336,
+    "timeDay": 317,
+    "timeWeek": 292,
+    "timeMonth": 303,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-08-08": 11,
@@ -92,16 +92,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workspace-stage.testfy.com.br.ico",
     "slug": "stage-backoffice-novo",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 335,
-    "timeDay": 102,
-    "timeWeek": 427,
-    "timeMonth": 371,
-    "timeYear": 311,
+    "timeDay": 253,
+    "timeWeek": 349,
+    "timeMonth": 370,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2024-05-20": 30,
       "2024-03-16": 30,
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 402,
-    "timeDay": 273,
-    "timeWeek": 685,
-    "timeMonth": 636,
+    "timeDay": 274,
+    "timeWeek": 610,
+    "timeMonth": 626,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2024-03-16": 30,
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.testfy.com.br.ico",
     "slug": "prod-portainer",
     "status": "down",
-    "uptime": "42.82%",
+    "uptime": "42.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -146,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 30,
+      "2024-09-16": 29,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -509,8 +510,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   }
 ]
