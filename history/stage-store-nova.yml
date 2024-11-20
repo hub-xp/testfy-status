@@ -1,7 +1,7 @@
 url: https://store-stage.testfy.com.br/
-status: down
-code: 500
-responseTime: 335
-lastUpdated: 2024-11-20T15:34:31.841Z
+status: up
+code: 200
+responseTime: 974
+lastUpdated: 2024-11-20T16:03:17.497Z
 startTime: 2022-01-13T23:37:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
