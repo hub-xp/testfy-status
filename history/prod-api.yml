@@ -1,7 +1,7 @@
 url: https://api.testfy.com.br/public/healthcheck/liveness
 status: up
 code: 204
-responseTime: 337
-lastUpdated: 2025-02-03T23:01:22.663Z
+responseTime: 301
+lastUpdated: 2025-02-04T23:01:26.577Z
 startTime: 2022-04-18T11:47:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
