@@ -1,7 +1,7 @@
 url: https://api.testfy.com.br/public/healthcheck/liveness
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-28T23:01:54.996Z
+status: up
+code: 204
+responseTime: 408
+lastUpdated: 2025-08-28T23:02:57.598Z
 startTime: 2022-04-18T11:47:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
