@@ -46,19 +46,19 @@
     "url": "http://workspace.testfy.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/workspace.testfy.com.br.ico",
     "slug": "prod-workspace",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 495,
-    "timeWeek": 307,
-    "timeMonth": 281,
+    "timeDay": 405,
+    "timeWeek": 298,
+    "timeMonth": 280,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-12-17": 1
+      "2025-12-17": 33
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 1324,
+      "2025-12-17": 1358,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
