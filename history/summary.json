@@ -10,10 +10,10 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
-    "time": 428,
-    "timeDay": 675,
-    "timeWeek": 484,
-    "timeMonth": 448,
+    "time": 427,
+    "timeDay": 231,
+    "timeWeek": 430,
+    "timeMonth": 450,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-01-21": 23,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 292,
-    "timeWeek": 929,
-    "timeMonth": 413,
-    "timeYear": 286,
+    "timeDay": 225,
+    "timeWeek": 913,
+    "timeMonth": 412,
+    "timeYear": 287,
     "dailyMinutesDown": {}
   },
   {
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 286,
-    "timeDay": 381,
-    "timeWeek": 304,
-    "timeMonth": 289,
-    "timeYear": 294,
+    "timeDay": 235,
+    "timeWeek": 283,
+    "timeMonth": 288,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2025-12-18": 554,
       "2025-12-17": 33
@@ -75,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 359,
-    "timeDay": 348,
-    "timeWeek": 360,
+    "timeDay": 271,
+    "timeWeek": 341,
     "timeMonth": 341,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 465,
-    "timeDay": 644,
-    "timeWeek": 661,
-    "timeMonth": 576,
-    "timeYear": 496,
+    "time": 467,
+    "timeDay": 907,
+    "timeWeek": 654,
+    "timeMonth": 597,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2025-12-07": 27,
       "2025-11-12": 390,
@@ -132,9 +132,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.83%",
     "time": 599,
-    "timeDay": 1070,
-    "timeWeek": 841,
-    "timeMonth": 760,
+    "timeDay": 392,
+    "timeWeek": 717,
+    "timeMonth": 766,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2026-01-13": 33,
@@ -161,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.testfy.com.br.ico",
     "slug": "prod-portainer",
     "status": "down",
-    "uptime": "28.20%",
+    "uptime": "28.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -172,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 39,
+      "2026-01-28": 37,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -535,8 +536,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   }
 ]
